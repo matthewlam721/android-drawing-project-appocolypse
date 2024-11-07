@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "430471856257",
+    "project_id": "drawingactivity-appocolypse",
+    "storage_bucket": "drawingactivity-appocolypse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430471856257:android:c2c054efe499d3a55f4d80",
+        "android_client_info": {
+          "package_name": "com.example.drawingactivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR5bPI11HiXQNvbWuEyW36M77tJrGKJM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

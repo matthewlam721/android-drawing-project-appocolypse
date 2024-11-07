@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DrawingActivity</string>
+    <string name="go_back">Go Back</string>
+    <string name="enter_title">Enter title</string>
+    <string name="save">Save</string>
+    <string name="pen_size">Pen Size: </string>
+    <string name="color">Color: </string>
+    <string name="customize">Customize</string>
+</resources>

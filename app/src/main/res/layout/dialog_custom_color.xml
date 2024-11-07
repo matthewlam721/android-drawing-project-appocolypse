@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/editTextRed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Red (0-255)"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/editTextGreen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Green (0-255)"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/editTextBlue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Blue (0-255)"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/buttonCreateColor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Create Color" />
+
+</LinearLayout>
